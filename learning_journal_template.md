@@ -1,5 +1,5 @@
 # Reece Kelly
-# Week 1: Learning Journal
+# Week X: Learning Journal
 
 ## Learning Activities & Resources
 
