@@ -1,9 +1,9 @@
 # Reece Kelly
-# Week X: Learning Journal
+# Week 2: Learning Journal
 
 ## Learning Activities & Resources
 
-[WorddPress 5 Essential Training - LinkedIn Learning](https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction?u=2223545)
+[WordPress 5 Essential Training - LinkedIn Learning](https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction?u=2223545)
 
 [How To Edit Homepage On Joomla Website 2024 (Full Tutorial) - Youtube](https://www.youtube.com/watch?v=Ci4YukWUOhs&ab_channel=Titan)
 
@@ -18,7 +18,7 @@ The term "WordPress" refers to the free, open-source web publishing application 
 
 The three main content types in WordPress are posts, pages, and media elements. Posts are organized by categories and tags and are typically used for time-sensitive content. Pages, however, are for static, timeless content that doesn’t change frequently and are not organized by tags. Instead, they are hierarchical (e.g., an "About Us" page). Media elements include things such as images and videos, they are usually included in posts and pages but can be standalone items
 
-Categories are the primary taxonmy used to group related posts toegether. They are hierarchical, meaning they can have parent-child relationships. On the other hand, tags are optional and used to connect posts through keywords.
+Categories are the primary method used to group related posts together. They are hierarchical, meaning they can have parent-child relationships. On the other hand, tags are optional and used to connect posts through keywords.
 
 WordPress 5.5 includes many upgrades from version 5.4, such as limited inline image editing, and a block directory section that allows users to search for and install new blocks directly from the editor. It also introduces automatic updates for plugins and themes.
 
