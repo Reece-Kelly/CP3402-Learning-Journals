@@ -12,9 +12,9 @@ I spent approximately 3 hours on explicit learning activities this week.
 ## Content Insights
 
 WordPress workflows are structured processes for developing WordPress websites in a quick and organized way. The workflow you choose depends on your situation:  
-- **"Building Your First WordPress Site"** – Ideal for beginners.  
-- **"Customizing Your Site with a Child Theme"** – For modifying an existing theme.  
-- **"Building a Custom Site for Yourself or a Client"** – For advanced users creating tailored solutions.  
+- **"Building Your First WordPress Site"** - Ideal for beginners.  
+- **"Customizing Your Site with a Child Theme"** - For modifying an existing theme.  
+- **"Building a Custom Site for Yourself or a Client"** - For advanced users creating tailored solutions.  
 
 When setting up a WordPress site, you have two main hosting choices:  
 - **Shared Hosting**: Inexpensive but requires manual WordPress setup and management.  
@@ -35,6 +35,10 @@ A staging environment is a private duplicate of your live site, used for testing
 Avoid building content in a local development environment. Instead, create content on the live site and migrate it down if needed. This simplifies the process and avoids complications.  
 
 ## Career/Employability/Learning Insights
-While working on this weeks practical I found it easier and more intuitive to work with WordPress rather than Joomla. I think this is largely due to the Gutenberg block editor, which I believe is really well designed and easy to use.
+I can see the use of the different WordPress workflows I learned about this week in the LinkedIn Learning course. Although the workflow for building custom sites for clients seems a bit advanced for me now, I can see its efficiency and potential use in professional settings.
 
-During the interview activity during this weeks practical I found some of my questions were getting answers which I believed were not completely honest as the question pointed them in the direction of a positive answer. One example of these questions was "How motivated are you to work on this project?". This question led to everyone answering to with answers similar to "I'm very motivated", obviously someone is not going to say they are unmotivated. So I adjusted the question to "Give me an example of where you lost motivation in a group project, and how you regained it" so I could gain more genuine answers.
+While working on the practical, I found WordPress more intuitive and easier to use than Joomla, largely due to the Gutenberg block editor, which I think is well-designed and user-friendly.
+
+During the interview activity, I noticed that some of my questions were evoking overly positive and possibly disingenuous responses. One such question was, "How motivated are you to work on this project?" Since most people are unlikely to admit a lack of motivation, I rephrased it to, "Can you share an example of when you lost motivation in a project and how you regained it?" This adjustment helped me gather more genuine and insightful answers.
+
+I also realized that I value teammates who can provide specific examples of how they've demonstrated skills in teamwork scenarios. In the future, I'll apply this insight to job interviews by ensuring I provide examples of scenarios in which I have used my skills.
