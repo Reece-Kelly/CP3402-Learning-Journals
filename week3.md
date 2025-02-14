@@ -11,37 +11,28 @@ I spent approximately 3 hours on explicit learning activities this week.
 
 ## Content Insights
 
-Wordpress Workflows are a structured way of developing WordPress websites in the quickest and most efficiently organized way.
+WordPress workflows are structured processes for developing WordPress websites in a quick and organized way. The workflow you choose depends on your situation:  
+- **"Building Your First WordPress Site"** – Ideal for beginners.  
+- **"Customizing Your Site with a Child Theme"** – For modifying an existing theme.  
+- **"Building a Custom Site for Yourself or a Client"** – For advanced users creating tailored solutions.  
 
-There are multiple different workflows depending, each dependent on what your current situation is for wordpress:
-1 - "Building Your First WordPress site"
-2 - "Customizing Your Site with a Child Theme"
-3 - "Building a Custom Site for Yourself or a Client"
+When setting up a WordPress site, you have two main hosting choices:  
+- **Shared Hosting**: Inexpensive but requires manual WordPress setup and management.  
+- **Managed Hosting**: More expensive but includes pre-installed WordPress and managed services. Generally, it has better performance than shared hosting as well.  
+It is important to pick the correct type of hosting based on your requirements.  
 
-When setting up your WordPress site there are two main types of hosting that you can choose from:
-1 - Shared Hosting, which is inexpensive, but you have to set up WordPress and manage it yourself.
-2 - Managed Hosting, which can be more expensive, but WordPress is pre-installed and the host manages it.
+A child theme is a custom theme that inherits the styling and functionality of its parent theme, allowing you to modify specific files or features without affecting the parent theme. Key points:  
+- Use a child theme any time you want to change the appearance or behavior of an existing theme.  
+- Ensure the parent theme is installed; otherwise, the child theme won't work.  
+- Test your child theme using theme unit test data to ensure it handles various content types correctly.  
 
-It is generally a good idea to write all content within WordPress itself, as if it is imported from another application this can lead to the loss of specific formatting and styling.
+It is generally a good idea to write all content directly in WordPress to avoid losing formatting or styling when importing from external applications.  
 
-Generally, when uploading media files to your site, smaller media files such as images, graphics, documents, and other small items should be in put in WordPress, whereas as larger media files like video and audio should be uploaded on a dedicated service like Youtube for example. This will ensure that your site stays online even with heavy traffic, as all the larger files are provided by another provider.
+When uploading media files in WordPress, you should upload smaller files (e.g., images, documents) directly to WordPress. As for larger files (e.g., videos, audio), external media-sharing platforms like YouTube should be used to prevent site slowdowns during high traffic.  
 
-A child theme is custom theme which inherits the attributes of it's parent theme, and you only change the files/ parts of the child theme that you want to change. You use a child theme any time you want to change the appearance or behaviour of an existing theme.
+A staging environment is a private duplicate of your live site, used for testing and development. It limits access to stakeholders during development and allows you to test changes before going live. This helps reduce risks when deploying changes, and most hosting providers offer tools to swap staging and production servers seamlessly.  
 
-It is not advisable to build content for your site in your local development environment. If you want to build new content, do it on the live site and migrate it down. This is because it is far more complicated to build 
-
-When developing a site using wordpress there are many components that need to be managed, these being:
-- Domain and hosting
-- Wordpress itself
-- Context (text, images, video, etc.)
-- Design and development
-- Themes and plugins
-
-You can test your child themes functionality by using theme unit test data. This will upload a lot of content to your site to extensively test how your custom child theme handles different types of content. If it passes all these test it is ready to publish to the web.
-
-When using a child-theme, you must ensure the parent theme is installed as well otherwise it will not work.
-
-A staging evironment is useful for first implementations as it is a private duplicate of the live environment while limiting access to only stakeholders. After the site is ready to go live on the staging server, you can swap the content of the production server (live server) and the staging server usually with an option on the hosting provider you are using.
+Avoid building content in a local development environment. Instead, create content on the live site and migrate it down if needed. This simplifies the process and avoids complications.  
 
 ## Career/Employability/Learning Insights
 While working on this weeks practical I found it easier and more intuitive to work with WordPress rather than Joomla. I think this is largely due to the Gutenberg block editor, which I believe is really well designed and easy to use.
