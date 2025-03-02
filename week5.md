@@ -34,9 +34,3 @@ Hooks are points in WordPress's code that allow other functions to add additiona
 This week, I watched the WordPress: Building Child Themes LinkedIn Learning course. This decision was largely influenced by my learning insight from last week, where I mentioned that I would try to choose learning content relevant to the work I am doing and topics that interest me while still relating to the subject. This approach helped me stay more engaged. Knowing that I had a task directly involving the content I was learning kept me motivated to complete the course. The course also included several challenges, which I found engaging and refreshing, as many other courses I have taken do not include this feature.
 
 I found creating the LinkedIn post a little daunting at first, primarily because I knew that future employers would likely see it, and this could affect my chances of landing a job. Because of this, I put a fair amount of effort into it due to its potential audience. I realized the importance of presenting myself professionally and authentically on professional networking platforms like LinkedIn. Everything I post, share, comment on, or like will impact my online presence. Creating the post helped me overcome some initial hesitation with interacting on platforms like LinkedIn, and I will hopefully feel more comfortable creating posts in the future.
-
-
-
-
-
-
