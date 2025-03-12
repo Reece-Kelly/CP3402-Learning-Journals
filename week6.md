@@ -7,11 +7,12 @@
 
 [Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues - Using the kanban method](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=2223545)
 
-[Introduction to JavaScript - Codecademy](https://www.codecademy.com/enrolled/courses/introduction-to-javascript) 
+[Learning Git and GitHub (2021)](https://www.linkedin.com/learning/learning-git-and-github-2021/what-is-git?resume=false&u=2223545)
+
 
 ## Estimated Hours
 
-I spent approximately (15m + 30m) hours on explicit learning activities this week.
+I spent approximately 2.5 hours on explicit learning activities this week.
 
 ## Content Insights
 
@@ -43,6 +44,12 @@ Other common columns that may be added to a kanban board include:
 
 The minimum and/or maximum number of issues allowed in certain project board columns is specified in kanban to limit work-in-progress (WIP). This helps improve work-flow, because when there are road-blocks the team can work together to solve them before moving onto other tasks, and limits multitasking. WIP limits can be adjusted or removed entirely based on what works best for the team.
 
+In git, the .gitignore file allows you to specify which files and directores should not be tracked within the repository. This feature is commonly used to ignore sensitive files containing secrets or files that aren't needed to be tracked such as a local notes.
+
 ## Career/Employability/Learning Insights
 
 This week, I tried only focusing on content that is relevant to the work I will be doing in the group project. Instead of watching entire LinkedIn courses I opted to just watch sections of them which I believed were relevant. I found this really helped keep me engaged, as I knew I could apply the majority of what I was learning, as opposed to other times where I was watching content that would not be relevant to any of the tasks I would have to do in the future.
+
+I've realised that git is used in almost every software development job and it is important to understand it. I realised while completing some of the tasks this week that my knowledge is a bit lacking, so I will continue to focus on git related content in the coming weeks.
+
+
