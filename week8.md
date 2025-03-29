@@ -5,6 +5,8 @@
 
 [WordPress Developer Tips: DRY Development - LinkedIn Learning](https://www.linkedin.com/learning/wordpress-developer-tips-dry-development/welcome?u=2223545)
 
+[Learning PHP (2015) - LinkedIn Learning](https://www.linkedin.com/learning/learning-php-2/welcome?resume=false&u=2223545)
+
 # Learning Experiment
 
 # Hypothesis
@@ -27,9 +29,9 @@ Create 20 questions (10 multi-choice and 10 short answer) and answers based on t
 # Results
 
 Without taking notes - 16/20 (80%) questions answered correctly
-With taking notes    - X/20 questions answered correctly
+With taking notes    - 19/20 (95%) questions answered correctly
 
-After trying both methods, I found that...
+From these results it can be seen I achieved a 15% better mark when I took notes while learning compared to when I wasn't.
 
 
 ## Estimated Hours
