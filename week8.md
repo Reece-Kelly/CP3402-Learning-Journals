@@ -33,8 +33,8 @@ Create 20 questions (10 multi-choice and 10 short answer) and answers based on t
 
 # Results
 
-Phase 1: No Notes   - 16/20 (80%) questions answered correctly
-Phase 2: With Notes - 19/20 (95%) questions answered correctly
+- Phase 1: No Notes   - 16/20 (80%) questions answered correctly
+- Phase 2: With Notes - 19/20 (95%) questions answered correctly
 
 From these results, it can be seen that I achieved a 15% higher score when taking notes during learning compared to when I did not.
 
