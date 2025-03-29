@@ -7,14 +7,14 @@
 
 [Learning PHP (2015) - LinkedIn Learning](https://www.linkedin.com/learning/learning-php-2/welcome?resume=false&u=2223545)
 
-# Learning Experiment
+### Learning Experiment
 
-# Hypothesis
+### Hypothesis
 *If I take notes while completing my learning activities, I will recall more information compared to not taking notes, as it requires me to actively listen and process the material, reinforcing key concepts through engagement.*
 
 I wanted to test this learning method because, typically, I do not take any notes when completing my weekly learning activities, and I quickly forget some of the content I watch. After researching study techniques, I found, unsurprisingly, that note-taking was one of the most effective methods. Therefore, I believe this is a suitable approach to test, with a reasonable chance of improving my information retention.
 
-# Test
+### Test
 
 Phase 1: No Notes
 1. Complete 30 minutes of a relevant LinkedIn Learning course without taking any notes.
@@ -31,7 +31,7 @@ By comparing the marks I achieve using each method, I will be able to determine 
 Prompt used in DeepSeek:
 Create 20 questions (10 multi-choice and 10 short answer) and answers based on the content in the following transcript from a LinkedIn Learning course: *Transcript*
 
-# Results
+### Results
 
 - Phase 1: No Notes   - 16/20 (80%) questions answered correctly
 - Phase 2: With Notes - 19/20 (95%) questions answered correctly
