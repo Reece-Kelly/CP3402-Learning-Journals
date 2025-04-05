@@ -22,8 +22,12 @@ Some of the most prominent added features of Sass include... (CONTINUE HERE)
 
 ## Career/Employability/Learning Insights
 
-After doing some research, I found that multiple sources stated that Sass is still widely in use by web developers today. However, I did find multiple sources also stating that due to the rapid development of CSS over the years Sass has become less necessary than it once was. Features which were once unique to Sass are integrated in CSS such as variables and nesting. Considering this information, if I am to do any more web development in the future I will consider the complexity of the project when deciding to use Sass or not.
+After researching, I found that multiple sources stated that Sass is still widely used by web developers today. However, I also discovered that due to the rapid development of CSS over the years, Sass has become less essential than it once was. Features that were once unique to Sass, such as variables and nesting, are now integrated into native CSS. Considering this, if I do more web development in the future, I will evaluate the complexity of the project before deciding whether to use Sass.
 
-In terms of employability, after having a look at available jobs for web developers and similar positions on LinkedIn and Seek I was not able to find any that specifically stated that experience with Sass was required or even preferred. Considering this, it may be more beneficial to develop other skills in web development over Sass considering it's more niche.
+In terms of employability, after reviewing job listings for web developers on LinkedIn and Seek, I did not find any that explicitly required or even preferred Sass experience. Given this, it may be more beneficial to focus on other web development skills rather than Sass, as it appears to be a more niche requirement.
+
+This week, I had limited time due to upcoming deadlines for multiple assessments. As a result, I couldn’t spend as much time searching through learning activities or choosing one that interested me. Instead, I used the recommended activity for the week. Although it was helpful to learn more about Sass, I wasn’t able to apply my previous learning strategies effectively (e.g., taking notes, doing quizzes, or selectively watching relevant content). This reduced my engagement compared to when I had used those techniques. From this experience, I’ve learned that allocating sufficient time for quality learning is important, but sometimes it simply isn’t feasible or a high enough priority.
+
+An obvious, but easier said than done, solution is to improve time management. I will research some techniques and try to implement them in this final week of the subject.
 
 
