@@ -45,6 +45,6 @@ In terms of employability, after reviewing job listings for web developers on Li
 
 This week, I had limited time due to upcoming deadlines for multiple assessments. As a result, I couldn’t spend as much time searching through learning activities or choosing one that interested me. Instead, I used the recommended activity for the week. Although it was helpful to learn more about Sass, I wasn’t able to apply my previous learning strategies effectively (e.g., taking notes, doing quizzes, or selectively watching relevant content). This reduced my engagement compared to when I had used those techniques. From this experience, I’ve learned that allocating sufficient time for quality learning is important, but sometimes it simply isn’t feasible or a high enough priority.
 
-An obvious, but easier said than done, solution is to improve time management. I will research some techniques and try to implement them in this final week of the subject.
+An obvious, but easier said than done, solution is to improve my time management. I will research some techniques and try to implement them in this final week of the subject.
 
 
