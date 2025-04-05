@@ -7,7 +7,7 @@
 
 ## Estimated Hours
 
-I spent approximately 2.5 hours on explicit learning activities this week.
+I spent approximately 2 hours on explicit learning activities this week.
 
 ## Content Insights
 
@@ -21,3 +21,9 @@ Some of the most prominent added features of Sass include... (CONTINUE HERE)
 
 
 ## Career/Employability/Learning Insights
+
+After doing some research, I found that multiple sources stated that Sass is still widely in use by web developers today. However, I did find multiple sources also stating that due to the rapid development of CSS over the years Sass has become less necessary than it once was. Features which were once unique to Sass are integrated in CSS such as variables and nesting. Considering this information, if I am to do any more web development in the future I will consider the complexity of the project when deciding to use Sass or not.
+
+In terms of employability, after having a look at available jobs for web developers and similar positions on LinkedIn and Seek I was not able to find any that specifically stated that experience with Sass was required or even preferred. Considering this, it may be more beneficial to develop other skills in web development over Sass considering it's more niche.
+
+
