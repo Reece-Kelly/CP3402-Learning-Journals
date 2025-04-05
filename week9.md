@@ -7,17 +7,34 @@
 
 ## Estimated Hours
 
-I spent approximately 2 hours on explicit learning activities this week.
+I spent approximately 1.5 hours on explicit learning activities this week.
 
 ## Content Insights
 
-Sass (syntactically awesome style sheets) is a superset of the CSS language. This means that all CSS is also valid SCSS, but not the other way around.
+Sass (Syntactically Awesome Style Sheets) is a superset of CSS, meaning all valid CSS is also valid SCSS, but not vice versa.
 
-Sass does not make a website look better, but is a metalanguage for creating style sheets that makes it easier for the developer to create styles than just using plain CSS.
+Sass does not make a website look better, but is a metalanguage that simplifies stylesheet creation for developers compared to plain CSS.
 
-All of the added features of Sass can be found in the [Sass Documentation](https://sass-lang.com/documentation/)
+All Sass features are documented in the [Sass Documentation](https://sass-lang.com/documentation/)
 
-Some of the most prominent added features of Sass include... (CONTINUE HERE)
+Since browsers cannot interpret Sass directly, it must first be compiled into CSS using a Sass preprocesser before it can be used in a webpage. 
+
+Some of the most prominent features of Sass include variables, mixins, inheritance (@extend), and nesting.
+
+There are two different Sass Syntax formats:
+
+1. `.sass` format - Uses indentation instead of braces and semicolons and is more concise, but less like CSS.
+
+2. `.scss` format (AKA Sassy CSS) - Fully compatible with CSS (all valid CSS is valid SCSS). It is also the most popular of the two formats due to it's familiarality
+
+Sass variables begin with a dollar sign and are declared in the format:
+
+`$variable: expression`
+
+You can create variables at a global scope, or within curly braces for local scope. If a variable is defined in both a global scope and local scope, the local scope variable takes precedence. Hyphens and underscores are treated the same in Sass, this is something to be careful of when naming variables.
+
+
+Developer's can use a filewatcher such as [Gulp](https://github.com/gulpjs/gulphttps://github.com/gulpjs/gulp) when editing their Sass files to automatically recompile them into CSS. 
 
 
 ## Career/Employability/Learning Insights
