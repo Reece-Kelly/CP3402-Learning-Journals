@@ -11,9 +11,9 @@ I spent approximately 1.5 hours on explicit learning activities this week.
 
 ## Content Insights
 
-You can automatically backup your WordPress site by using a plugin such as UpdraftPlus. This is important in case you ever lose the contents of your website and need to restore it to a previous version. You can configure settings within UpdraftPlus to determine how often backups should be made and if you want to have them sent to external storage (e.g. Onedrive)
+You can automatically back up your WordPress site by using a plugin such as UpdraftPlus. This is crucial in case you ever lose your website's content and need to restore it to a previous version. Within UpdraftPlus, you can configure settings to determine backup frequency and whether to store backups on external storage (e.g., OneDrive).
 
-The process for restoration of a website is:
+The restoration process for a website is as follows:
 
 1. Get the most current version of your backup files and database
 2. Set up a temporary maintenance page
@@ -22,22 +22,36 @@ The process for restoration of a website is:
 5. Test thoroughly
 6. Remove temporary maintenance page
 
-You can use phpMyAdmin to restore a previous version of your database if your current one is compromised.
+You can use phpMyAdmin to restore a previous database version if your current one is compromised.
 
-It is important to be using the most up to date version of WordPress, as using older versions can make your website vulnerable to attacks through vulnerabilities in the older version.
+It’s important to keep WordPress updated, as older versions may contain vulnerabilities that expose your site to attacks.
 
-The 3 main things to keep up to date are:
+The three key components to maintain are:
 
 1. WordPress core files
 2. Plugins
 3. Themes
 
-WordPress will automatically create a notification if there are updates for any of these 3 things.
+WordPress automatically notifies you when updates are available for any of these.
+
+Additionally, you should change the default admin username to something difficult to guess, as many automated attacks assume it is "admin."
+
+WordPress has five default user roles, each with different permissions:
+
+1. Administrator
+2. Editor
+3. Author
+4. Contributor
+5. Subscriber
+
+You can modify these roles using plugins and themes to better suit your site’s needs.
 
 ## Career/Employability/Learning Insights
 
-This week I experimented with using the Pomodoro technique when studying. I used this in response to my insight last week that my time management was not as good as it could have been. I found using this technique was quite helpful, and despite the increased amount of breaks, I was able to get through more content than usual and that I was more focused. What helped was writing down a clear goal for each pomodoro work session, so I knew exactly what I needed to achieve in the next 25 minutes. I enjoyed using this technique, and I can see myself using it again in my studies.
+This week I experimented with using the Pomodoro technique to help improve my study efficiency. I implemented this in response to last week’s realization that my time management needed improvement. I figured I could make better use of the time I dedicated to CMS study using this technique, as it is very popular study method. I found using this technique was quite helpful, and despite the increased amount of breaks, I covered more content than usual and maintained better focus compared to when not using it. Setting a clear goal for each 25-minute session helped me stay on track. I enjoyed the pomodoro technique, and I can see myself using it again in my future studies.
 
-After completing the group project this week, I reflected and found that WordPress theme development and web development in general were not areas I wished to find a career in. That being said, I believe I have learnt quite a few skills in this subject which are transferable to many different careers in IT. 
+After completing the group project this week, I reflected and found that WordPress theme development and web development in general were not areas I wished to find a career in. However, I’ve gained valuable transferable skills, including familiarity with modern workflows and tools like Trello, Docker, and WordPress. Given their popularity in the IT industry, I believe these skills will be attractive to employers.
+
+
 
 
